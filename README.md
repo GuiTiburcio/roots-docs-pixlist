@@ -3,7 +3,7 @@
 # 🌿 Roots – PixList Docs
 
 Documentação central do projeto **Roots (PixList)** — um ecossistema de ferramentas que conecta casais e convidados através de presentes via Pix.
-- decisões, especificações, sprints e runbooks de engenharia -
+-> decisões, especificações, sprints e runbooks de engenharia <-
 
 ---
 
