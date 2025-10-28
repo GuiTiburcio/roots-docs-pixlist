@@ -1,0 +1,1 @@
+Endpoint para exportar/apagar dados; retenção 24 meses + anonimização.

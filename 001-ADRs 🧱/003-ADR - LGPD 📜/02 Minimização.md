@@ -1,0 +1,1 @@
+Coletar apenas dados necessários (nome e contato do pagador – opcionais).

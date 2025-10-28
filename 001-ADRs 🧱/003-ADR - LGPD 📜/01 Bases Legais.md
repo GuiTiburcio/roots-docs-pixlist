@@ -1,0 +1,1 @@
+execução de contrato (serviço), consentimento (marketing), interesse legítimo (analytics first‑party limitado).

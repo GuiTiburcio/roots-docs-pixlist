@@ -1,0 +1,1 @@
+## **Pagamentos**: PSP com Pix Dinâmico e Webhooks

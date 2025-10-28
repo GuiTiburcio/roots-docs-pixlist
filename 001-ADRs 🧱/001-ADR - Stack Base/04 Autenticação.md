@@ -1,0 +1,1 @@
+## **Auth**: NextAuth (email magic link; OAuth opcional)

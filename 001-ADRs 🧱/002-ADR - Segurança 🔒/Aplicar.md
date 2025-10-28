@@ -1,0 +1,1 @@
+CSP estrita, HSTS, headers de segurança, rate limit, idempotência em cobranças, assinatura HMAC de webhook, logs imutáveis.
